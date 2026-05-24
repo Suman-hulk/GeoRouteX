@@ -1,0 +1,14 @@
+[general]
+
+name=GeoRouteX
+description=Advanced Routing Visualizer for QGIS
+category=Plugins
+tags=routing,gis,network,dijkstra,visualization,qgis
+about=Interactive shortest-path routing and visualization plugin for QGIS.
+version=1.0.0
+qgisMinimumVersion=3.0
+
+author=Suman Saurabh
+email=sumanpsc7@email.com
+
+icon=icon.png
