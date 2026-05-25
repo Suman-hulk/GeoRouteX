@@ -9,6 +9,6 @@ version=1.0.0
 qgisMinimumVersion=3.0
 
 author=Suman Saurabh
-email=sumanpsc7@email.com
+email=sumanpsc7@gmail.com
 
 icon=icon.png
